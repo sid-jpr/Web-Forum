@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/mosaic.png);
+}
+
+.logo {
+  font-family: 'Major Mono Display', monospace;
+}
+
+.logo a {
+  color: white;
+  font-family: 'Major Mono Display', monospace;
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
